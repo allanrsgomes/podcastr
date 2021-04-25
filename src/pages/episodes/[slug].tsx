@@ -3,6 +3,7 @@ import ptBR from  'date-fns/locale/pt-BR';
 import Image from 'next/image';
 import Link from 'next/link';
 import { GetStaticPaths, GetStaticProps } from 'next';
+
 import { api } from '../../services/api';
 import { convertDurationToTimeString } from '../../utils/convertDurationToTimeString';
 
@@ -25,6 +26,7 @@ type EpisodeProps = {
 }
 
 export default function Episode({ episode }: EpisodeProps) {
+
     return (
         <div className={styles.episode}>
             <div className={styles.thumbnailContainer}>
