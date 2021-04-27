@@ -4,9 +4,13 @@
 
 ## 📝 INDICE
 
-- [SOBRE](#-SOBRE)
-- [TECNOLOGIAS](#-TECNOLOGIAS)
-- [BAIXAR E INSTALAR](#-COMO-BAIXAR-E-RODAR-O-PROJETO)
+<p align="center">
+  <a href="#-SOBRE">SOBRE</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-TECNOLOGIAS">TECNOLOGIAS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-COMO-BAIXAR-E-RODAR-O-PROJETO">COMO BAIXAR E RODAR O PROJETO</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-LAYOUT">LAYOUT</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-LICENÇA">LICENÇA</a>
+</p>
 
 ---
 
@@ -71,3 +75,23 @@ yarn start
 ```
 
 _Importante: o servidor de aplicativos deve estar em execução, para que as solicitações necessárias para a construção das páginas estáticas não falhem_ 🤓 💻
+
+---
+
+## 🔖 LAYOUT
+
+Você pode visualizar o layout do projeto através dos links abaixo:
+
+- [Layout Web](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr?node-id=160%3A2761)
+
+Lembrando que você precisa ter um [Figma](http://figma.com/) conta para acessá-lo.
+
+---
+
+## 📝 LICENÇA
+
+Seu projeto está licenciado sob a Licença MIT. Veja a [LICENSE](LICENSE.md).
+
+---
+
+<p align="center">Feito por Allan Gomes com 🖤</p>
