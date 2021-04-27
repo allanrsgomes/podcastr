@@ -2,8 +2,6 @@
     <img src="./public/logo.svg"> 
 </h1>
 
-Este projeto foi desenvolvido durante a 5 edição do _NLW - Next Level Week_, evento promovido pela [Rocketseat](https://rocketseat.com.br).
-
 ## 📝 INDICE
 
 - [SOBRE](#-SOBRE)
@@ -14,8 +12,7 @@ Este projeto foi desenvolvido durante a 5 edição do _NLW - Next Level Week_, e
 
 ## 🎧 SOBRE
 
-O Podcast é uma plataforma construída para transmissão de podcast de desenvolvedores. 
-Construida consumindo uma fake API, esse projeto foi construido durante o 5º NLW, um evento promovido pela [Rocketseat]
+Este projeto foi desenvolvido durante a 5 edição do _NLW - Next Level Week_, evento promovido pela [Rocketseat](https://rocketseat.com.br). O Podcast é uma plataforma construída para transmissão de podcast de desenvolvedores. Construida consumindo uma fake API.
 
 ---
 
