@@ -1,18 +1,26 @@
-# Podcastr
+<h1 align="center">
+    <img src="./public/logo.svg"> 
+</h1>
 
-This project was developed during the 5th edition of _NLW - Next Level Week_, an event hosted by [Rocketseat](https://rocketseat.com.br).
+Este projeto foi desenvolvido durante a 5 edição do _NLW - Next Level Week_, evento promovido pela [Rocketseat](https://rocketseat.com.br).
 
-## 🎧 About it
 
-The sole purpose of this application is streaming episodes of a single podcast feed. In this case, the chosen podcast was _"Fala Dev"_, created by the RocketSeat team. The episodes are provided by a server generated via JSON Server, using an JSON object which contains all episodes data.
+### INDICE
 
-As an educational program, _NLW_ has the purpose of teaching techniques and skills, in different programming languages and areas ( in this case, front-end development using React and Next.js). So, developing this application was a way to learn about **Server Site Rendering**, **Static Site Generation**, **Contexts** and many other concepts linked to modern web development.
-
-As a personal touch, I've used _Styled Components_ for managing styles. The objective was to learn more about the tool, and preparing the environment of the application to future enhancements, such as responsive design and personalizing themes.
+- [SOBRE](#-SOBRE)
+- [TECNOLOGIAS](#-TECNOLOGIAS)
+- [BAIXAR E INSTALAR](#-COMO-BAIXAR-E-RODAR-O-PROJETO)
 
 ---
 
-## 🛠 Technologies used
+## 🎧 SOBRE
+
+O Podcast é uma plataforma construída para transmissão de podcast de desenvolvedores. 
+Construida consumindo uma fake API, esse projeto foi construido durante o 5º NLW, um evento promovido pela [Rocketseat]
+
+---
+
+## 🛠 TECNOLOGIAS
 
 - [Typescript](https://www.typescriptlang.org/)
 - [Next.js](https://nextjs.org/)
@@ -22,28 +30,28 @@ As a personal touch, I've used _Styled Components_ for managing styles. The obje
 
 ---
 
-## 🚀 Run this project
+## 🚀 COMO BAIXAR E RODAR O PROJETO :
 
-### Clone the repository
+### Clonar repositório
 
 ```shell
 git clone https://github.com/allanrsgomes/podcastr.git
 ```
 
-### Install Dependencies
+### Instalar dependencias
 
 ```shell
 cd podcastr
 yarn
 ```
 
-### Run JSON Server
+### Rodar JSON Server
 
 ```shell
 yarn server
 ```
 
-### Run the app
+### Rodar o app
 
 On a different terminal window, enter the application directory.
 
