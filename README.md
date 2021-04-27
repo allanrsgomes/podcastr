@@ -8,7 +8,7 @@ Este projeto foi desenvolvido durante a 5 edição do _NLW - Next Level Week_, e
 
 - [SOBRE](#-SOBRE)
 - [TECNOLOGIAS](#-TECNOLOGIAS)
-- [BAIXAR E INSTALAR](#-COMO-BAIXAR-E-RODAR-O-PROJETO)
+- [BAIXAR E INSTALAR](#-COMO-BAIXAR-E-RODAR-O-PROJETO:)
 
 ---
 
@@ -32,7 +32,7 @@ Construida consumindo uma fake API, esse projeto foi construido durante o 5º NL
 
 ---
 
-## 🚀 COMO BAIXAR E RODAR O PROJETO :
+## 🚀 COMO BAIXAR E RODAR O PROJETO:
 
 ### Clonar repositório
 
