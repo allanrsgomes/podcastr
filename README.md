@@ -5,7 +5,7 @@
 Este projeto foi desenvolvido durante a 5 edição do _NLW - Next Level Week_, evento promovido pela [Rocketseat](https://rocketseat.com.br).
 
 
-### INDICE
+## INDICE
 
 - [SOBRE](#-SOBRE)
 - [TECNOLOGIAS](#-TECNOLOGIAS)
