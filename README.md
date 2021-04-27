@@ -4,7 +4,6 @@
 
 Este projeto foi desenvolvido durante a 5 edição do _NLW - Next Level Week_, evento promovido pela [Rocketseat](https://rocketseat.com.br).
 
-
 ## INDICE
 
 - [SOBRE](#-SOBRE)
@@ -22,11 +21,14 @@ Construida consumindo uma fake API, esse projeto foi construido durante o 5º NL
 
 ## 🛠 TECNOLOGIAS
 
-- [Typescript](https://www.typescriptlang.org/)
 - [Next.js](https://nextjs.org/)
 - [React](https://reactjs.org)
+- [Typescript](https://www.typescriptlang.org/)
 - [Styled Components](https://styled-components.com)
+- [SASS](https://sass-lang.com/)
 - [JSON Server](https://www.npmjs.com/package/json-server)
+- [Axios](https://github.com/axios/axios)
+- [Date-fns](https://date-fns.org/)
 
 ---
 
