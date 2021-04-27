@@ -70,6 +70,4 @@ yarn build
 yarn start
 ```
 
-_Importante: o servidor de aplicativos deve estar em execução, para que as solicitações necessárias para a construção das páginas estáticas não falhem_
-
-🤓 💻
+_Importante: o servidor de aplicativos deve estar em execução, para que as solicitações necessárias para a construção das páginas estáticas não falhem_ 🤓 💻
