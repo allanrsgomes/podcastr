@@ -34,14 +34,15 @@ Este projeto foi desenvolvido durante a 5 edição do _NLW - Next Level Week_, e
 ### Clonar repositório
 
 ```shell
-git clone https://github.com/allanrsgomes/podcastr.git
+git clone https://github.com/allanrsgomes/podcastr.git && cd podcastr
 ```
 
 ### Instalar dependencias
 
 ```shell
-cd podcastr
-yarn
+yarn install
+//or
+npm install
 ```
 
 ### Rodar JSON Server
@@ -58,6 +59,8 @@ Você pode executar o aplicativo no modo dev, usando
 
 ```shell
 yarn dev
+//or
+npm run dev
 ```
 
 Ou crie as páginas estáticas e execute-as no modo de produção, usando
