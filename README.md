@@ -53,21 +53,21 @@ yarn server
 
 ### Rodar o app
 
-On a different terminal window, enter the application directory.
+Em uma janela de terminal diferente, insira o diretório do aplicativo.
 
-You can run the application in dev mode, using
+Você pode executar o aplicativo no modo dev, usando
 
 ```shell
 yarn dev
 ```
 
-Or build the static pages and run it in production mode, using
+Ou crie as páginas estáticas e execute-as no modo de produção, usando
 
 ```shell
 yarn build
 yarn start
 ```
 
-_Important: the application server must be running, so the requests needed for building the static pages won't fail_
+_Importante: o servidor de aplicativos deve estar em execução, para que as solicitações necessárias para a construção das páginas estáticas não falhem_
 
 🤓 💻
