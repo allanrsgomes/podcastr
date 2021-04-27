@@ -1,65 +1,97 @@
-# Podcastr
+<h1 align="center">
+    <img src="./public/logo.svg"> 
+</h1>
 
-This project was developed during the 5th edition of _NLW - Next Level Week_, an event hosted by [Rocketseat](https://rocketseat.com.br).
+## 📝 INDICE
 
-## 🎧 About it
-
-The sole purpose of this application is streaming episodes of a single podcast feed. In this case, the chosen podcast was _"Fala Dev"_, created by the RocketSeat team. The episodes are provided by a server generated via JSON Server, using an JSON object which contains all episodes data.
-
-As an educational program, _NLW_ has the purpose of teaching techniques and skills, in different programming languages and areas ( in this case, front-end development using React and Next.js). So, developing this application was a way to learn about **Server Site Rendering**, **Static Site Generation**, **Contexts** and many other concepts linked to modern web development.
-
-As a personal touch, I've used _Styled Components_ for managing styles. The objective was to learn more about the tool, and preparing the environment of the application to future enhancements, such as responsive design and personalizing themes.
+<p align="center">
+  <a href="#-SOBRE">SOBRE</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-TECNOLOGIAS">TECNOLOGIAS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-COMO-BAIXAR-E-RODAR-O-PROJETO">COMO BAIXAR E RODAR O PROJETO</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-LAYOUT">LAYOUT</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-LICENÇA">LICENÇA</a>
+</p>
 
 ---
 
-## 🛠 Technologies used
+## 🎧 SOBRE
 
-- [Typescript](https://www.typescriptlang.org/)
+Este projeto foi desenvolvido durante a 5 edição do _NLW - Next Level Week_, evento promovido pela [Rocketseat](https://rocketseat.com.br). O Podcast é uma plataforma construída para transmissão de podcast de desenvolvedores. Construida consumindo uma fake API.
+
+---
+
+## 🛠 TECNOLOGIAS
+
 - [Next.js](https://nextjs.org/)
 - [React](https://reactjs.org)
+- [Typescript](https://www.typescriptlang.org/)
 - [Styled Components](https://styled-components.com)
+- [SASS](https://sass-lang.com/)
 - [JSON Server](https://www.npmjs.com/package/json-server)
+- [Axios](https://github.com/axios/axios)
+- [Date-fns](https://date-fns.org/)
 
 ---
 
-## 🚀 Run this project
+## 🚀 COMO BAIXAR E RODAR O PROJETO
 
-### Clone the repository
-
-```shell
-git clone https://github.com/allanrsgomes/podcastr.git
-```
-
-### Install Dependencies
+### Clonar repositório
 
 ```shell
-cd podcastr
-yarn
+git clone https://github.com/allanrsgomes/podcastr.git && cd podcastr
 ```
 
-### Run JSON Server
+### Instalar dependencias
+
+```shell
+yarn install
+//or
+npm install
+```
+
+### Rodar JSON Server
 
 ```shell
 yarn server
 ```
 
-### Run the app
+### Rodar o app
 
-On a different terminal window, enter the application directory.
+Em uma janela de terminal diferente, insira o diretório do aplicativo.
 
-You can run the application in dev mode, using
+Você pode executar o aplicativo no modo dev, usando
 
 ```shell
 yarn dev
+//or
+npm run dev
 ```
 
-Or build the static pages and run it in production mode, using
+Ou crie as páginas estáticas e execute-as no modo de produção, usando
 
 ```shell
 yarn build
 yarn start
 ```
 
-_Important: the application server must be running, so the requests needed for building the static pages won't fail_
+_Importante: o servidor de aplicativos deve estar em execução, para que as solicitações necessárias para a construção das páginas estáticas não falhem_ 🤓 💻
 
-🤓 💻
+---
+
+## 🔖 LAYOUT
+
+Você pode visualizar o layout do projeto através dos links abaixo:
+
+- [Layout Web](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr?node-id=160%3A2761)
+
+Lembrando que você precisa ter um [Figma](http://figma.com/) conta para acessá-lo.
+
+---
+
+## 📝 LICENÇA
+
+Seu projeto está licenciado sob a Licença MIT. Veja a [LICENSE](LICENSE.md).
+
+---
+
+Feito com 💜 por Allan Gomes 👋 acesse meu [LinkedIn](https://www.linkedin.com/in/allanrsgomes/)
