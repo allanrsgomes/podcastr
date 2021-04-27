@@ -94,4 +94,4 @@ Seu projeto está licenciado sob a Licença MIT. Veja a [LICENSE](LICENSE.md).
 
 ---
 
-<p align="center">Feito por Allan Gomes com 🖤</p>
+Feito com 💜 por Allan Gomes 👋 [veja meu LinkedIn](https://www.linkedin.com/in/allanrsgomes/)
